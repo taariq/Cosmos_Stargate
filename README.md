@@ -1,1 +1,1 @@
-# Cosmos_Stargate
+# Cosmos Stargate

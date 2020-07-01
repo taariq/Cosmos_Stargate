@@ -34,13 +34,13 @@ Upgrade capability will be deployed in the Stargate upgrade. It benefits from th
 
 * Integration process status
 
-**Ethan Buchman(Regen Networks):** We want to ship 0.39 as well-tested piece of software for the community. We have lots of coordination and synergy. It’s an ecosystem approach to testnets. We will test SDK upgrade with multiple chains participating together. We should have an in-depth in the process and harmonize. Let’s step back and engage with other ecosystem partners so that we can make sure the validates are not overloaded. Let’s create a coherent narrative of interchain upgrades. This is the first time we are approaching interchain upgrades. Ethan will be the point person on the testnet side. We want to do lots of good coordination and have a rhythm of things. Example: What would it look like for an incentivized testnet for the SDK? We don’t want an incentivized testnet. We also don’t want Regen to be carrying the incentive layer alone. Let’s seek strong synchronization.
+**Gregory Landua (Regen Networks):** We want to ship 0.39 as well-tested piece of software for the community. We have lots of coordination and synergy. It’s an ecosystem approach to testnets. We will test SDK upgrade with multiple chains participating together. We should have an in-depth in the process and harmonize. Let’s step back and engage with other ecosystem partners so that we can make sure the validates are not overloaded. Let’s create a coherent narrative of interchain upgrades. This is the first time we are approaching interchain upgrades. Ethan will be the point person on the testnet side. We want to do lots of good coordination and have a rhythm of things. Example: What would it look like for an incentivized testnet for the SDK? We don’t want an incentivized testnet. We also don’t want Regen to be carrying the incentive layer alone. Let’s seek strong synchronization.
 
 **Tess Rinearson(ICF/Tendermint Core):** Want to make sure the piece of the puzzle works well.
 
 **Zaki Manian(Iqlusion):** Primary need Starget focus: Reality is that no one conducts integration testing against anything other than a public testnet. We want to have a target for integration testing facilitation. We have lots of other needs & use cases. This will be a post-release testnet. We may want to do something like Regen has done on their testnets.
 
-**Ethan Buchman(Regen Networks):** 0.39 testnet first, then run a Stargate integration testnet. These are topics that require some deep conversation and multiple opinion. We should clarify scheduling and timing so we know what we test and when.
+**Gregory Landua (Regen Networks):** 0.39 testnet first, then run a Stargate integration testnet. These are topics that require some deep conversation and multiple opinion. We should clarify scheduling and timing so we know what we test and when.
 
 **Zaki Manian(Iqlusion):** The project plan will lead to the governance proposal. The Hub will feel confident with the risks associated with the upgrade.
 
@@ -48,13 +48,13 @@ Upgrade capability will be deployed in the Stargate upgrade. It benefits from th
 
 **Zaki Manian(Iqlusion):** We went through this acceptance testing process and why we think we can upgrade
 
-**Ethan Buchman(Regen Networks):** I really want to fix in on what is the criteria this group thinks is needed for the release candidate. What level of testing are we trying to pass the baton on for the subsequent integration testing and Hub focused testnets. If I can fix the criteria, then I can back-cast to Tess and the Tendermint team. It might give us more of a timeline. Do we want this release candidate tested completely? I don’t want to presume that.
+**Gregory Landua (Regen Networks):** I really want to fix in on what is the criteria this group thinks is needed for the release candidate. What level of testing are we trying to pass the baton on for the subsequent integration testing and Hub focused testnets. If I can fix the criteria, then I can back-cast to Tess and the Tendermint team. It might give us more of a timeline. Do we want this release candidate tested completely? I don’t want to presume that.
 
 **Zaki Manian(Iqlusion):** One of things that we learned from the Game of Zones process is that the Software development process is functioning well. We had two issues during Game of Zones that uncovered 5 lines of code fixe that took 24 hours to resolve. The question is maybe not what will work. I think we don’t need to do something unique or special that we haven’t done for other releases. The quality assurance processes we have been running have not degraded since we launched the hub.
 
 **Christopher Goes(IBC):** My evaluation of Game of Zones. Our individual software QA proc3sses were fine, but we did not have a good story of how the changes were ported downstream to Gaia. We also did not have a good story of the upstream changes were communicated. Currently, no one has the Gaiai contract. Iqlusion and Zaki is leading Stargate, but it’s not clear what the IBC team is responsible for. It’s good to have some clarity.
 
-**Ethan Buchman(Regen Networks):** Seeking level of clarity and synchronization so that we know where things get pushed.
+**Gregory Landua (Regen Networks):** Seeking level of clarity and synchronization so that we know where things get pushed.
 
 **Zaki Manian(Iqlusion):** Let me explain how this should run for Stargate and then discuss further existential views. I’m expecting that there will be a process of porting the state of sim app to Gaia for the purposes of facilitating a testnet upgrade. Zaki is expecting that this will be in the capabilities of Zaki, Taariq, ambient engineering team to help facilitate the process. Zaki will own the process to get Gaia up to sim app.
 
