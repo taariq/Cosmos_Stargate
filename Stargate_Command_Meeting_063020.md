@@ -100,6 +100,8 @@ Upgrade capability will be deployed in the Stargate upgrade. It benefits from th
 
 **Tess Rinearson(ICF/Tendermint Core):** Have we agreed whether LaunchPad is a thing and exactly what it is?
 
-**Billy Rennekamp(ICF):**  We have a call.
+**Billy Rennekamp(ICF):**  We have a call on Friday to discuss LaunchPad.
 
 **Zaki Manian(Iqlusion):**  Launchpad is a consequence of Stargate, but not part of the Stargate upgrade. Writing a spec for what is LaunchPad is out of scope. It's good to define and keep a mental model: We have alot of people who care about the software, but Stargate is concerned with Exchanges, Wallets, Block Exlporers, and Validators. There are Developers and Zones who are interested partners, but they are not the primary objective of Stargate. LaunchPad is an effort to take care of them.
+
+**All** Bye.
